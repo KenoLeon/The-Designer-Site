@@ -22,6 +22,14 @@ body {
     margin-top: 40px; /* define margin as you see fit */
 }
 
+
+/*Icon Bar colors*/
+
+.fa-instagram{
+  background-color:#A1755C;
+  }
+
+
  /*Navbar colors */
 
 .navbar-default {
