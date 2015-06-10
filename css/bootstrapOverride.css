@@ -23,7 +23,21 @@ body {
 }
 
 
-/*Icon Bar colors*/
+/*Icon LinkBar colors*/
+
+/*All*/
+
+.linkBar a, .linkBar a:visited {
+    color: ##4f4f4f !important;
+}
+
+.linkBar a:hover, .linkBar a:active {
+    color: #797979 !important;
+}
+
+/*Individual */
+
+
 
 /*.fa-instagram{
   color: #ffffff;
