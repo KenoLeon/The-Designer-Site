@@ -9,6 +9,12 @@ body {
   margin-bottom: 20px !important;
 }
 
+* {
+  border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+}
+
+
  /*Navbar colors */
 
 .navbar-default {
