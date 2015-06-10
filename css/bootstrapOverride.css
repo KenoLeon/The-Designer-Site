@@ -9,9 +9,17 @@ body {
   margin-bottom: 20px !important;
 }
 
+/*Round Corners */
+
 * {
   border-radius: 0 !important;
   -moz-border-radius: 0 !important;
+}
+
+/*Spacer Row*/
+
+.spacer {
+    margin-top: 40px; /* define margin as you see fit */
 }
 
  /*Navbar colors */
