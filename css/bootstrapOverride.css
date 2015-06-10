@@ -28,11 +28,11 @@ body {
 /*All*/
 
 .linkBar a, .linkBar a:visited {
-    color: #4f4f4f !important;
+    color: #262626 !important;
 }
 
 .linkBar a:hover, .linkBar a:active {
-    color: #797979 !important;
+    color: #525252 !important;
 }
 
 /*Individual */
