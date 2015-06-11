@@ -44,8 +44,9 @@ body {
 
 /*Jumbotron Wide Image*/
 
-.wideImage > img{
-  width: 100% !important; 
+.wideImage {
+  padding-left: 0px !important;
+  padding-right: 0px !important; 
 }
 
 
