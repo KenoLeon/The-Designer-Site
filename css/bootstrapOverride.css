@@ -37,12 +37,18 @@ body {
 
 /*Individual */
 
-
-
 /*.fa-instagram{
   color: #ffffff;
   background-color:#A1755C;
   }*/
+
+/*Jumbotron Wide Image*/
+
+.wideImage > img{
+  width: 100% !important; 
+}
+
+
 
 
  /*Navbar colors */
