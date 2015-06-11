@@ -50,17 +50,14 @@ body {
   background-color: #ffffff ;
 }
 
-.wideImage h1,h2,h3,h4,h5 {
+.wideImage h1,h2,h3,h4,h5{
   padding-left: 6%;
 }
 
-.textBlock p{
-  padding-left: 6%;
+.wideImage p{
+  padding-left: 6% !important;
 }
-
-.textBlock h5{
-  color: #676767;
-}
+  
  /*Navbar colors */
 
 .navbar-default {
