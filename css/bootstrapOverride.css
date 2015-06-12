@@ -57,7 +57,18 @@ body {
 .wideImage p{
   padding-left: 6% !important;
 }
-  
+
+.wideImage a, .wideImage a:visited {
+    color: #333 !important;
+    text-decoration: none !important;
+}
+
+.wideImage a:hover, .wideImage a:active {
+    color: #333 !important;
+    text-decoration: none !important;
+}
+
+
  /*Navbar colors */
 
 .navbar-default {
