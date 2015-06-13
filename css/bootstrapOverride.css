@@ -73,6 +73,10 @@ body {
     text-decoration: none !important;
 }
 
+.centerImg {
+  margin: 0 auto !important;
+}
+
 
  /*Navbar colors */
 
