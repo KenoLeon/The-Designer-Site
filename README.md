@@ -6,4 +6,8 @@ Preview on Github Pages :
 
 Usage Notes:
 
-<b>Relies on bootstrap</b>
+Built with Bootstrap, so adding or changing functionality shouldn't be too hard:
+
+<a href="http://getbootstrap.com" target="_blank">Bootstrap/a>
+
+css changes are all in the bootstrapOverride.css file.
