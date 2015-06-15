@@ -83,6 +83,10 @@ body {
   padding-right: 4% !important;
 }
 
+.cvhr{
+  margin-top: -10px;  
+}
+
  /*Navbar colors */
 
 .navbar-default {
