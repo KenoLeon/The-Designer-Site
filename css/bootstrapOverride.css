@@ -139,6 +139,18 @@ blockquote {
     background-image: none
 }
 
+
+.carousel-indicators li {
+  background-color: #669966;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+.carousel-indicators .active {
+  background-color: #FF7600;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+
  /*Navbar colors */
 
 .navbar-default {
