@@ -143,12 +143,12 @@ blockquote {
 .carousel-indicators li {
   background-color: #669966;
   border: 1px solid #fff;
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
 .carousel-indicators .active {
   background-color: #FF7600;
   border: 1px solid #fff;
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
 
  /*Navbar colors */
