@@ -134,6 +134,11 @@ blockquote {
   max-height: 400px !important;
 }
 
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
  /*Navbar colors */
 
 .navbar-default {
