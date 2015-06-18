@@ -179,11 +179,9 @@
 
     <script type="text/javascript">
     // stop the carousel from idle scrolling
-    $(function () {
-      $('.carousel').carousel({
-          interval:"false"
-      });
-    })
+    $(document).ready(function() {
+      $ ('.carousel').carousel('pause');
+    });
     </script>
 
   </body>
