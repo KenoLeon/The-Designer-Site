@@ -141,13 +141,13 @@ blockquote {
 
 
 .carousel-indicators li {
-  background-color: #669966;
-  border: 1px solid #fff;
+  background-color: #000000;
+  border: 1px solid #000000;
   border-radius: 10px !important;
 }
 .carousel-indicators .active {
-  background-color: #FF7600;
-  border: 1px solid #fff;
+  background-color: #000000;
+  border: 1px solid #000000;
   border-radius: 10px !important;
 }
 
