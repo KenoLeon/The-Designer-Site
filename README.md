@@ -15,6 +15,7 @@ css changes are all in the bootstrapOverride.css file.
 <b>Implementing :</b>
 
 -landing/Index page does double duty as project page and landing.
+<br/>
 -There are slight differences in each project heading, so you can use the one you like.
 
 Images are a conventional 1920 W X 1020 H
