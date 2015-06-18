@@ -129,6 +129,11 @@ blockquote {
   font-size: 15px !important;
 }
 
+
+.projectImg{
+  max-height: 400px !important;
+}
+
  /*Navbar colors */
 
 .navbar-default {
