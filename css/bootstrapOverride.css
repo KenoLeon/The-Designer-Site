@@ -1,5 +1,16 @@
 
 
+/*Fonts*/
+
+
+.navbar-brand{
+  font-family: 'Oswald', sans-serif !important;
+}
+
+
+
+
+
 body {
   padding-top: 20px !important;
   padding-bottom: 20px !important;
