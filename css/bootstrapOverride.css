@@ -1,7 +1,6 @@
 
 
-/*Fonts*/
-
+/* Start Fonts*/
 
 .navbar-brand{
   font-family: 'Oswald', sans-serif !important;
@@ -16,8 +15,6 @@ font-family: 'Merriweather', serif;
 font-family: 'Roboto Slab', serif; Normal 400 Bold 700
 font-family: 'Merriweather', serif; Normal 400 Normal 400 Italic Bold 700*/
 
-
-
 .projectHeading h3 h4 small{
   font-family: 'Roboto Slab';
 }
@@ -26,6 +23,7 @@ font-family: 'Merriweather', serif; Normal 400 Normal 400 Italic Bold 700*/
   font-family: 'Merriweather';
 }
 
+/* End Fonts*/
 
 body {
   padding-top: 20px !important;
