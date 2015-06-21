@@ -18,7 +18,13 @@ font-family: 'Merriweather', serif; Normal 400 Normal 400 Italic Bold 700*/
 
 
 
+.projectHeading h3 h4 small{
+  font-family: 'Roboto Slab';
+}
 
+.projectHeading p{
+  font-family: 'Merriweather';
+}
 
 
 body {
