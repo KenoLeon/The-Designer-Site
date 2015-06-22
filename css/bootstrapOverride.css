@@ -23,6 +23,11 @@ font-family: 'Merriweather', serif; Normal 400 Normal 400 Italic Bold 700*/
   font-family: 'Merriweather';
 }
 
+.textBlock{
+  font-family: 'Merriweather';
+}
+
+
 /* End Fonts*/
 
 body {
