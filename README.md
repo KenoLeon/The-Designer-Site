@@ -14,6 +14,9 @@ css changes are all in the bootstrapOverride.css file.
 
 <b>Implementing :</b>
 
+A compressed copy can be downloaded from the dist folder if you don't want to signup to Github, just upload
+to your server after that or give it to your web designer /webmaster, he'll know what to do with it : )
+
 -landing/Index page does double duty as project page and landing.
 <br/>
 -There are slight differences in each project heading, so you can use the one you like.
