@@ -33,10 +33,9 @@ font-family: 'Merriweather', serif; Normal 400 Normal 400 Italic Bold 700*/
   font-family: 'Merriweather' !important;
 }
 
-.MerriP{
+.MerriP p{
   font-family: 'Merriweather' !important;
-  font-size: 18px;
-  font-weight: 500;
+  font-size: 17px;
 }
 
 
