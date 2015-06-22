@@ -162,6 +162,11 @@ blockquote {
     margin-right:-4px;
 }
 
+
+.address strong{
+  font-size: 16px;
+}
+
 .gMap{
   margin-top: -70px;
 }
