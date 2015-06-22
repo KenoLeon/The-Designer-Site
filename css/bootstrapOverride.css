@@ -39,7 +39,7 @@ font-family: 'Merriweather', serif; Normal 400 Normal 400 Italic Bold 700*/
 }
 
 .projectP{
-  font-size: 20px;
+  font-size: 20px !important;
 }
 
 /* End Fonts*/
