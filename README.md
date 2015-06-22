@@ -21,7 +21,7 @@ to your server after that or give it to your web designer /webmaster, he'll know
 <br/>
 -There are slight differences in each project heading, so you can use the one you like.
 
-Images are a conventional 1920 W X 1020 H
+Images are a conventional 1920 W X 1080 H
 
 Project pages :
 
